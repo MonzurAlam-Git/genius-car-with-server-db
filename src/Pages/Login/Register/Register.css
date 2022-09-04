@@ -1,0 +1,13 @@
+.register-form {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.register-form input:not([type="checkbox"]) {
+  display: grid;
+  height: 50px;
+  width: 100%;
+  padding-left: 10px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
